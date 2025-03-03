@@ -30,7 +30,7 @@ Este projeto foi minha **primeira experiência consumindo uma API**! Ele permite
 ## 🌎 Deploy (GitHub Pages)
 
 Se quiser acessar o projeto online, clique aqui:  
-🔗 [Link para o site](https://eubrunolima.github.io/consulta_cep/)  
+🔗<a href="https://eubrunolima.github.io/consulta_cep/" target="_blank">Link para o site</a>
 
 ---
 
